@@ -1,0 +1,32 @@
+{
+  "name": "homecontrol",
+  "description": "Home automation web control",
+  "keywords": [
+    "home automation"
+  ],
+  "version": "0.0.1",
+  "homepage": "http://www.swagman.org/",
+  "author": {
+    "name": "Jussi Ohenoja",
+    "email": "juice@swagman.org",
+    "url": "https://github.com/juiceme/homecontrol.git"
+  },
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juiceme/homecontrol.git"
+  },
+  "bugs": {
+    "url": "http://github.com/juiceme/homecontrol/issues"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+    "websocket": "=1.0.22"
+  },
+  "scripts": {
+  },
+  "engine": [
+    "node >= v0.10.0"
+  ]
+}
